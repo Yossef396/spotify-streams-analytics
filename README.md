@@ -8,9 +8,9 @@ A complete, single-workbook Excel analytics project exploring hit song character
 
 * **`Spotify_Dataset_Project.xlsx`** – The complete project workbook containing cleaned data, pivot analyses, and the final interactive executive dashboard.
 * **`Executive_Dashboard.pdf`** – A printable, high-resolution PDF export of the Executive Dashboard sheet.
-* **`dashboard_preview.png`** – A quick screenshot preview of the Executive Dashboard.
+* **`dashboard_preview.jpeg`** – A quick screenshot preview of the Executive Dashboard.
 
----![Dashboard Preview](dashboard_preview.png)
+---![Dashboard Preview](dashboard_preview.jpeg)
 
 ## 📌 Project Architecture
 
