@@ -10,7 +10,7 @@ A complete, single-workbook Excel analytics project exploring hit song character
 * **`Executive_Dashboard.pdf`** – A printable, high-resolution PDF export of the Executive Dashboard sheet.
 * **`dashboard_preview.png`** – A quick screenshot preview of the Executive Dashboard.
 
----
+---![Dashboard Preview](dashboard_preview.png)
 
 ## 📌 Project Architecture
 
